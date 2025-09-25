@@ -5,3 +5,6 @@ simple
 *.so
 *.a
 prog
+prog-a
+prog-so
+
