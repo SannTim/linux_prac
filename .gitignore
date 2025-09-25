@@ -1,3 +1,7 @@
 *.o
 *.out
 simple
+*.output
+*.so
+*.a
+prog
